@@ -1,0 +1,76 @@
+body {
+    padding-top: 80px;
+    font-family: 'Montserrat';
+}
+
+.show-cart li {
+    display: flex;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    width: 200px;
+    height: 200px;
+    align-self: center;
+}
+
+h3 {
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: right;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+}
+
+nav ul li a:hover {
+    color: #ff9727;
+}
+
+.btn {
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 13px 17px;
+    border: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+}
+
+.btn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+}
+
+.btn-1 {
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+
+#myinput {
+    width: 60%;
+    border: 3px solid #0000;
+    border-right: none;
+    padding: 10px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+    color: #9DBFAF;
+    text-align: center;
+    margin-bottom: 10px;
+}
