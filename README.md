@@ -17,6 +17,10 @@ Ordering:
 Cart:
 ![](https://github.com/Chafithafid30/Line-Developer-Academy-2020/blob/master/Cart.png)
 
+## Architecture 🗼
+
+This app uses [**OOP Paradigm (Object Oriented Programming Paradigm)***] architecture.
+
 
 ## License 🔖
 
