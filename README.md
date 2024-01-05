@@ -19,7 +19,7 @@ Cart:
 
 ## Architecture 🗼
 
-This app uses [**OOP Paradigm (Object Oriented Programming Paradigm)***] architecture.
+This app uses [***(OOP Paradigm (Object Oriented Programming Paradigm)***] architecture.
 
 
 ## License 🔖
